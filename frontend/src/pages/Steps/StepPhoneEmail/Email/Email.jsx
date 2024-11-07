@@ -26,3 +26,8 @@ const Email = ({ onNext }) => {
 };
 
 export default Email;
+
+
+
+
+
